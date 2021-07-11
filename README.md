@@ -1,13 +1,5 @@
 # HTML-FORM
-<<<<<<< HEAD
-# VIBA-web-dev-week-2-
-# VIBA-web-dev-week-2-
-# VIBA-web-dev-week-2-
-# VIBA-web-dev-week-2-
-# VIBA-web-dev-week-2-
-# VIBA-web-dev-week-2-
-# VIBA-web-dev-week-2-
-=======
+
 This Contact Form is made using basic HTML tags.
 
 this webpage is a part of my project submission in Web Development Bootcamp by SkillShip Society VIBA.
